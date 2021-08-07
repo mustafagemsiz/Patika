@@ -1,0 +1,2 @@
+# Patika
+Ödevler ve Projeler
